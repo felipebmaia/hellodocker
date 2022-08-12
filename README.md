@@ -1,1 +1,1 @@
-# An Example for DOCKER PYTHON and VSCODE integration
+# An Example of DOCKER PYTHON and VS CODE integration
